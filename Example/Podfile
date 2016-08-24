@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'ULimit_ShopifySDK_Example' do
+  pod 'ULimit_ShopifySDK', :path => '../'
+
+  target 'ULimit_ShopifySDK_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "ULimit_ShopifySDK",
+  "version": "0.1.0",
+  "summary": "A short description of ULimit_ShopifySDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ULimit_ShopifySDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "albert.oclarit": "bbjao143213620"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ULimit_ShopifySDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ULimit_ShopifySDK/Classes/**/*.{h,m,mm}"
+}

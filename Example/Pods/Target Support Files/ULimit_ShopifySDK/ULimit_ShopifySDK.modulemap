@@ -1,0 +1,6 @@
+framework module ULimit_ShopifySDK {
+  umbrella header "ULimit_ShopifySDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

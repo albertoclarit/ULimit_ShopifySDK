@@ -25,6 +25,7 @@ Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your
   # s.screenshots    = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Albert Oclarit'=> 'albertoclarit@gmail.com'}
+  #s.source           = { :git => '~/Documents/Projects/Sources/XCode Projects/Shopify/ULimit_ShopifySDK', :tag => s.version.to_s }
   s.source           = { :git => 'https://github.com/albertoclarit/ULimit_ShopifySDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
